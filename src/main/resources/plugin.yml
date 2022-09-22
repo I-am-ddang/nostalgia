@@ -1,0 +1,6 @@
+name: Nostalgia
+version: Alpha-0.0.1
+main: com.ddang_.nostalgia.Nostalgia
+authors: [ DDang_ ]
+description: Minecraft miscellaneous plugin for 1.5.2 bukkit server
+website: https://github.com/I-am-ddang
